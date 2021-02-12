@@ -1,3 +1,6 @@
 [submodule "hctsa_phenotypingFly"]
 	path = hctsa_phenotypingFly
 	url = git@github.com:XavierFPMorris/hctsa_phenotypingFly.git
+[submodule "hctsa_phenotypingWorm"]
+	path = hctsa_phenotypingWorm
+	url = git@github.com:XavierFPMorris/hctsa_phenotypingWorm.git
