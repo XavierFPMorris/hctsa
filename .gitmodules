@@ -4,3 +4,6 @@
 [submodule "hctsa_phenotypingWorm"]
 	path = hctsa_phenotypingWorm
 	url = git@github.com:XavierFPMorris/hctsa_phenotypingWorm.git
+[submodule "hctsa_Honours"]
+	path = hctsa_Honours
+	url = git@github.com:XavierFPMorris/hctsa_Honours.git
